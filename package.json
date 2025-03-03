@@ -1,0 +1,11 @@
+{
+    "type": "module",
+    "scripts": {
+        "dev": "tsc -w",
+        "build": "tsc"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.9",
+        "typescript": "^5.8.2"
+    }
+}
